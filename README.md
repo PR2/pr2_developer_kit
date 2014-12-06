@@ -5,4 +5,4 @@ Provides developers with the code necessary to develop and modify ROS packages f
 
 Installation instructions: 
 
-rosinstall .rosinstall
+rosinstall .
