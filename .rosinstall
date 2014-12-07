@@ -61,6 +61,7 @@
 - git: {local-name: app_manager, uri: 'https://github.com/pr2/app_manager', version: hydro-devel}
 - git: {local-name: linux_networking, uri: 'https://github.com/pr2/linux_networking',
     version: hydro-devel}
+
 - git: {local-name: willow_maps, uri: 'https://github.com/pr2/willow_maps', version: hydro-devel}
 - git: {local-name: pr2_docs, uri: 'https://github.com/pr2/pr2_docs', version: master}
 - git: {local-name: kinematics_msgs, uri: 'https://github.com/pr2/kinematics_msgs',
